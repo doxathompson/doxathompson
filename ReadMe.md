@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Doxa Thompson</h1>
 <h3 align="center">A passionate Frontend Developer from Ghana.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=doxathompson" alt="doxathompson" /></a> </p>
-
 - 🌱 I’m currently learning **[Sass], [React]**
 
 - 👯 I’m looking to collaborate on **open source frontend projects**
@@ -23,5 +21,3 @@
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/doxathompse"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/doxathompse" /></a></p><br><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=doxathompson&show_icons=true&locale=en&layout=compact" alt="doxathompson" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=doxathompson&" alt="doxathompson" /></p>
