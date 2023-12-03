@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Doxa Thompson</h1>
-<h3 align="center">A passionate Frontend Developer from Ghana.</h3>
+<h3 align="center">A  Software Developer from Ghana.</h3>
 
-- 🌱 I’m currently learning **[Sass], [React]**
+- 🌱 I’m currently learning **[ASP.NET] for Backend**
 
-- 👯 I’m looking to collaborate on **open source frontend projects**
+- 👯 I’m looking to collaborate on **open source  projects**
 
 - ⚡ Fun fact **Graphic design as a hobby**
 
