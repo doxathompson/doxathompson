@@ -12,7 +12,6 @@ I love building robust applications and integrating machine learning into real-w
 - 👯 Open to collaborating on **Spring Boot & AI projects**  
 - 📫 Reach me at **doxathompson03@gmail.com**  
 
-Check out my [coding portfolio](#) (replace `#` with link if available).
 
 ---
 
