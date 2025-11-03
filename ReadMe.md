@@ -2,9 +2,6 @@
 <h3 align="center">Backend + AI/ML Developer from Ghana 🇬🇭 | Living in Madagascar 🇲🇬</h3>
 
 <p align="center">
-  <a href="https://twitter.com/doxa_thom" target="blank">
-    <img src="https://img.shields.io/twitter/follow/doxa_thom?logo=twitter&style=for-the-badge" alt="Twitter"/>
-  </a>
   <a href="https://linkedin.com/in/doxa-thompson-bb420a1b8" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-Doxa%20Thompson-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
