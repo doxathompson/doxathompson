@@ -1,83 +1,74 @@
 <h1 align="center">Hi 👋, I'm Doxa Thompson</h1>
 <h3 align="center">Backend + AI/ML Developer from Ghana 🇬🇭 | Living in Madagascar 🇲🇬</h3>
 
-<p align="center">
-  <a href="https://linkedin.com/in/doxa-thompson-bb420a1b8" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Doxa%20Thompson-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-</p>
-
 ---
 
-## 🌱 About Me
+## 💫 About Me
+I’m a passionate backend developer exploring **Spring Boot**, **REST APIs**, and **AI/ML**.  
+I love building robust applications and integrating machine learning into real-world projects.
+
 - 🔭 Currently working on **UniMind WebApp for Learners AI Integration**  
 - 🌱 Learning **Machine Learning / AI**  
-- 👯 Looking to collaborate on **Spring Boot projects**  
-- 🤝 Open to discussions and collaborations on **AI & Backend development**  
-- 📫 Reach me at **doxathompson03@gmail.com**
+- 👯 Open to collaborating on **Spring Boot & AI projects**  
+- 📫 Reach me at **doxathompson03@gmail.com**  
+
+Check out my [coding portfolio](#) (replace `#` with link if available).
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🌐 Connect with Me
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/doxa_thom)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/doxa-thompson-bb420a1b8)
 
-### Backend / Dev
-Java 17+, Spring Boot, Spring Security, Spring Data JPA, REST APIs, WebSocket (STOMP), Maven, PostgreSQL, MySQL, MongoDB, Redis, Docker, Postman
+---
 
-### Frontend
-JavaScript, React, HTML5, CSS3, Bootstrap 5
+## 💻 Tech Stack
 
-### AI / ML
-Python, PyTorch, TensorFlow, scikit-learn, Pandas, Seaborn, OpenCV, MATLAB
+### Languages:
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Design / Productivity
-Adobe Photoshop, Postman, Git, GitHub
+### Backend / Developer Tools:
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Frontend:
+![ReactJS](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+
+### AI / ML Tools:
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge) 
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge)
+
+### Design / Productivity:
+![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-%2319A7DF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
 
 ## 📂 Featured Projects
 
 ### 💬 Real-Time Chat Application
-A beginner-friendly real-time chat application built with **Spring Boot**, **WebSocket (STOMP)**, and **Bootstrap**. Demonstrates real-time messaging, multi-user chat, and a simple UI — perfect for showcasing backend skills.
-
-**🌟 Features:**  
-- Real-time messaging with WebSocket & STOMP  
-- Supports multiple users  
-- Simple UI built with Bootstrap 5  
-- Lightweight & easy to run locally  
-- Beginner-friendly & educational  
-
-**🛠️ Technologies:**  
-| Backend | Frontend | Tools |
-|---------|----------|-------|
-| Java 17+, Spring Boot, WebSocket/SockJS | Bootstrap 5, HTML/CSS | Maven |
-
----
+- Beginner-friendly real-time chat app built with **Spring Boot**, **WebSocket (STOMP)**, and **Bootstrap**  
+- Features: real-time messaging, multi-user chat, simple UI  
+- Tech: Java 17+, Spring Boot, WebSocket, Bootstrap, Maven
 
 ### 📝 Task Tracker WebApp (DayStar International School)
-A productivity-focused task management API with **JWT authentication**, **user roles**, and **PostgreSQL** persistence. Helps users organize, track, and manage tasks efficiently.
-
-**🛠️ Technologies:**  
-Java, Spring Boot, REST APIs, PostgreSQL, Maven
-
----
+- Productivity-focused task management API with **JWT authentication**, **user roles**, and **PostgreSQL**  
+- Tech: Java, Spring Boot, REST APIs, PostgreSQL, Maven
 
 ### 🚀 UniMind WebApp for Learners AI Integration
-Currently in development — integrates AI features to enhance learning experiences for users.
-
-**🛠️ Technologies:**  
-Java, Spring Boot, React, AI/ML Tools, PostgreSQL
-
----
-
-## 📫 Connect with Me
-<p align="left">
-  <a href="https://twitter.com/doxa_thom" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40"/>
-  </a>
-  <a href="https://linkedin.com/in/doxa-thompson-bb420a1b8" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
-</p>
+- Currently in development — integrates AI features for enhanced learning experiences  
+- Tech: Java, Spring Boot, React, AI/ML tools, PostgreSQL
 
 ---
 
