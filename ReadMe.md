@@ -116,4 +116,4 @@ The goal is simple: build websites and web apps that look good, work clearly, an
 
 ## Contact
 
-📧 [Add your best email here]
+📧 [doxathompson03@gmail.com]
