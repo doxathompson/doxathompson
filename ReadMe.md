@@ -109,8 +109,8 @@ The goal is simple: build websites and web apps that look good, work clearly, an
 ## Writing & Updates
 
 - 🌐 Portfolio: [Add your portfolio link here]
-- 💼 LinkedIn: [[Add your LinkedIn link here]](https://www.linkedin.com/in/doxa-thompson-bb420a1b8/)
-- 🧑‍💻 GitHub: [[Add your GitHub profile link here]](https://github.com/doxathompson)
+- 💼 LinkedIn: [https://www.linkedin.com/in/doxa-thompson-bb420a1b8/]
+- 🧑‍💻 GitHub: [https://github.com/doxathompson]
 
 ---
 
