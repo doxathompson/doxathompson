@@ -1,19 +1,25 @@
-# Hey there 
+Hey there 👋🏻
 
-I'm Doxa, a developer and the founder of **WorkForm Studio**.
+I’m Doxa, a founder-engineer building practical web, software, and AI systems.
 
-I build websites, custom software, and practical AI-powered systems for businesses and organisations.
+At WorkForm Studio, I design and develop websites, custom business software, and AI-powered tools for growing organisations.
 
-My work focuses on creating clear, reliable digital products that solve real problems and improve how people work.
+My focus is not on adding AI simply because it is fashionable. I’m interested in building complete systems that solve real problems, improve workflows, organise information, and help people work more effectively.
 
-At WorkForm Studio, I'm interested in:
+My background in biomedical engineering and healthcare technology shaped how I approach software. I think about the full system: the users, the workflow, the data, the risks, the failure points, and the outcome the technology is meant to deliver.
 
-* Web development
-* Full-stack applications
-* Business software
-* Workflow automation
-* Applied AI systems
+growing WorkForm Studio into a trusted founder-led engineering company that builds:
 
-I share what I'm building and learning across software engineering, AI, and growing a founder-led technology studio.
+Business websites
+Custom web applications
+Internal platforms
+Document and knowledge systems
+AI assistants
+Automated business workflows
+Full-stack AI products
 
-> **Building useful digital products with thoughtful design and solid engineering.**
+I share what I am learning, what I am building, the problems I encounter, and the engineering lessons behind the work.
+
+If you are interested in practical software, applied AI, founder-led development, or building technology around real organisational problems, follow along.
+
+doxathompson03@gmail.com
